@@ -1,5 +1,7 @@
 # mcl_ros
 
+[![ROS build workflow](https://github.com/arav-jp/mcl_ros/actions/workflows/noetic.yml/badge.svg)](https://github.com/arav-jp/mcl_ros/actions/workflows/noetic.yml)
+
 ## About mcl_ros
 
 mcl_ros is a ROS package for mobile robot localization with 2D LiDAR. To implement localization, Monte Carlo localization (MCL) is used.
